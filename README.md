@@ -1,5 +1,5 @@
 # UK-Road-Accident-Analysis
-# I developed a comprehensive Power BI dashboard that analyzes road accident data across the UK. The dashboard integrates various datasets covering accident locations, dates and times, weather conditions, types of vehicles involved, and injury severity. It provides interactive visualizations such as heat maps showing accident hotspots, trend lines tracking accidents over time, and bar charts breaking down accidents by factors like road type or driver behavior.
+### I developed a comprehensive Power BI dashboard that analyzes road accident data across the UK. The dashboard integrates various datasets covering accident locations, dates and times, weather conditions, types of vehicles involved, and injury severity. It provides interactive visualizations such as heat maps showing accident hotspots, trend lines tracking accidents over time, and bar charts breaking down accidents by factors like road type or driver behavior.
 
 # This project allowed me to explore key insights, such as identifying high-risk areas and peak times for accidents, and understanding contributing factors like weather or road conditions. The dashboard features slicers and filters that enable users to drill down into specific regions, time periods, or accident types, making it a useful tool for policymakers, road safety analysts, and the general public.
 
